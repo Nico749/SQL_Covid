@@ -9,7 +9,7 @@
 
 ## General info
 
-This small project is an overall analysis of Covid data. The data has been prepared with SQL and visualized with Tableau
+The project is an overall analysis of Covid data until April 2021. The data has been prepared with SQL and visualized with Tableau.
 
 ## Technologies
 
